@@ -60,4 +60,4 @@ A simple Python application for analyzing firewall log files with a graphical us
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) for details.
